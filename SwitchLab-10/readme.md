@@ -17,6 +17,8 @@ Auditer un commutateur mal configuré, identifier les anomalies (nom d'hôte inc
    * `copy running-config startup-config`
 
 ## Démonstration vidéo
-> Si le lecteur vidéo ne s'affiche pas directement sur GitHub, [clique ici pour télécharger/voir la vidéo](./screenshots10/lesson10-test1-investigate.mp4).
+> Si le lecteur vidéo ne s'affiche pas directement sur GitHub, [clique ici pour télécharger/voir la vidéo](## Démonstration vidéo
+[Regarder / Télécharger la vidéo de démonstration (lesson10-test1-investigate.mp4)](https://github.com/mouhamedgueye-git/SwitchLab-cisco-ios/releases/download/TAG/lesson10-test1-investigate.mp4)
+> ).
 
 https://github.com/mouhamedgueye-git/SwitchLab-cisco-ios/screenshots10/lesson10-test1-investigate.mp4
